@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GAUARVI, I'm a passionate software developer with experience in web development and AI.
+- 👋 Hi, I’m @GAURAVI, I'm a passionate software developer with experience in web development and AI.
 - 👀 I’m interested in Open-source projects, AI, web development, blockchain, and cybersecurity. 
 - 🌱 I’m currently learning Computer Science and Engineering with Artificial Intellegence, learning Python, React.js for frontend development, and DevOps tools.
 - 💞️ I’m looking to collaborate on Exciting open-source projects, hackathons, and research in AI and automation.
